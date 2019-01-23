@@ -1,3 +1,3 @@
 "hello world"
 
-hello_world="Solved this lab!"
+hello_world="Solved this error!"
